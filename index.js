@@ -16,3 +16,5 @@ module.exports = [
   'ssb-ebt',
   'ssb-ooo'
 ]
+
+module.exports.lenient = ['ssb-onion', 'ssb-unix-socket', 'ssb-no-auth', 'ssb-local', 'ssb-logging']
