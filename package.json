@@ -1,0 +1,36 @@
+{
+  "name": "@metacentre/shipyard-ssb",
+  "version": "1.0.0",
+  "description": "standard ssb plugins as found in ssb-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssb",
+    "ssb-server",
+    "shipyard",
+    "plugins",
+    "secret-stack"
+  ],
+  "author": "av8ta",
+  "license": "MIT",
+  "dependencies": {
+    "ssb-blobs": "^2.0.1",
+    "ssb-ebt": "^6.0.0",
+    "ssb-friends": "^4.4.5",
+    "ssb-gossip": "^1.1.1",
+    "ssb-invite": "^2.1.7",
+    "ssb-links": "^3.0.10",
+    "ssb-local": "^1.0.0",
+    "ssb-logging": "^1.0.0",
+    "ssb-no-auth": "^1.0.0",
+    "ssb-onion": "^1.0.0",
+    "ssb-ooo": "^1.3.3",
+    "ssb-private1": "^1.0.1",
+    "ssb-query": "^2.4.5",
+    "ssb-replicate": "^1.3.3",
+    "ssb-unix-socket": "^1.0.0",
+    "ssb-ws": "^6.2.3"
+  }
+}
