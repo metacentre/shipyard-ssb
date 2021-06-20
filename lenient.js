@@ -1,4 +1,6 @@
 module.exports = [
+  'ssb-db',
+  'ssb-master',
   'ssb-onion',
   'onion',
   'ssb-unix-socket',
